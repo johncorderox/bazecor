@@ -3,3 +3,9 @@ Ruby, google chrome and fortnite settings for my dygma keyboard. Just a place to
 
 
 ![baze](/keys.png)
+
+## My DPI Settings Corsair
+5654
+1500
+3000 
+400
